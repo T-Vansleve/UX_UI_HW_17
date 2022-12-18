@@ -1,0 +1,19 @@
+.inlineBlock {
+    vertical-align: top;
+    display: inline-block; 
+}
+
+.inlineBlockLogo {
+    width: 23%;
+    padding: 1%;
+}
+
+.navigation {
+    width: 73%;
+    padding: 1%;
+}
+
+.inlineBlock ul {
+    width: 50%;
+    margin-left: auto;
+}

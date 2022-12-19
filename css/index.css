@@ -43,7 +43,7 @@ button{
 .heroimg{
     height: 500px;
     padding-left: 50px;
-    margin-top: 300px;
+    margin-top: 500px;
 
 }
 
@@ -68,14 +68,15 @@ h4 {
 .footerBar{
     background-color: black;
     color: #F3ECE1;
+    vertical-align:middle;
     font-family: 'arial', medium;
     font-size: 19px;
     padding-left: 25px;
     padding-top: 8px;
     padding-bottom: 8px;
+    display: inline-block;
     display: flex;
     align-items: center;
-
 }
 
 .left{

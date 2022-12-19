@@ -43,7 +43,7 @@ button{
 .heroimg{
     height: 500px;
     padding-left: 50px;
-    margin-top: 600px;
+    margin-top: 500px;
 
 }
 
@@ -65,6 +65,13 @@ h4 {
 
 /* footer section */
 
+.footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
 .footerBar{
     background-color: black;
     color: #F3ECE1;
@@ -77,7 +84,6 @@ h4 {
     display: inline-block;
     display: flex;
     align-items: center;
-    
 }
 
 .left{
